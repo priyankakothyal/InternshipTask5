@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .navbar-brand img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .hero-section {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+  
+  .hero-section h1 {
+    font-weight: 700;
+  }
+  
+  .card-body h5 {
+    font-weight: 700;
+  }
+  
+  footer {
+    background-color: #343a40;
+  }
+  
+  footer .social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  
+  footer .social-icons a:hover {
+    color: #f39c12;
+  }
+  
